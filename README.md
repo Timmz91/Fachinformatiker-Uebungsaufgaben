@@ -6,4 +6,6 @@ Bekannte Fehler dieser Version
 
 -  Auswahl im Hauptmenu fehlerhaft  ( auswahl 5/6/7 )
 -  Berechnung der Entnode teilweise fehlerhaft
--  -gelegentlich fehlt bei den ersten Fragen die gegebene Anwort 
+-  gelegentlich fehlt bei den ersten Fragen die gegebene Anwort
+-  Teilweise fehlen exceptions
+-  
