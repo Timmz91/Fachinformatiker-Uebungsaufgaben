@@ -1,9 +1,10 @@
 Updates:
 
 - Version 0.14
-                > Die Auswahl im Hauptmenu fehlerhaft ist nun korrekt
-                > Absturz bei wiederholt falsche Antworten // wurde behoben
-                > Die Darstellung der Fragen ist nun korrekt
+-  > Die Auswahl im Hauptmenu fehlerhaft ist nun korrekt
+   > Absturz bei wiederholt falsche Antworten // wurde behoben
+   > Die Darstellung der Fragen ist nun korrekt
+               
 
 
 Kurze Info:
