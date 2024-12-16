@@ -8,7 +8,7 @@ Kurze Info:
 
 Bekannte Fehler dieser Version:
 
--  Auswahl im Hauptmenu fehlerhaft  ( auswahl 5/6/7 )
+-  Auswahl im Hauptmenu fehlerhaft  ( auswahl 5/6/7 )   // Ist in der Version 0.10 bereits behoben
 -  Berechnung der Endnode teilweise fehlerhaft
 -  gelegentlich fehlt bei den ersten Fragen die gegebene Anwort // Die Statistik am Ende stimmt aber!
 -  Teilweise fehlen exceptions
