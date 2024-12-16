@@ -1,5 +1,6 @@
 Kurze Info:
-
+- Wenn ihr weitere Fragen haben wollt oder euch Fehler auffallen, bitte mir bescheid geben!!!!!
+- Gerne auch Vorschläge !!! 
 - Die Fragen sind in einer Liste gespeichert welche zufällig sortiert werden. Somit soll verhindert werden, dass sich Fragen innerhalb einer Aufgabe wiederholen und kein Muster von Lösungen erkennbar ist
 - Unter IPv6 sind ca 30 Fragen bzgl EUI48 / 48   - Den Aufbau einer IPv6 und allgemeine Fragen dazu
 - TCP/UDP sind allgemeine Fragen zum Protocol und einige wichtige Port Fragen
@@ -12,4 +13,4 @@ Bekannte Fehler dieser Version:
 -  Berechnung der Endnode teilweise fehlerhaft
 -  gelegentlich fehlt bei den ersten Fragen die gegebene Anwort // Die Statistik am Ende stimmt aber!
 -  Teilweise fehlen exceptions
--  
+
