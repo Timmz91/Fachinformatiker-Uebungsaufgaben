@@ -10,6 +10,6 @@ Bekannte Fehler dieser Version:
 
 -  Auswahl im Hauptmenu fehlerhaft  ( auswahl 5/6/7 )
 -  Berechnung der Endnode teilweise fehlerhaft
--  gelegentlich fehlt bei den ersten Fragen die gegebene Anwort
+-  gelegentlich fehlt bei den ersten Fragen die gegebene Anwort // Die Statistik am Ende stimmt aber!
 -  Teilweise fehlen exceptions
 -  
