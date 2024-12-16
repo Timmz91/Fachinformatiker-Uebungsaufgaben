@@ -9,6 +9,7 @@ Kurze Info:
 
 Bekannte Fehler dieser Version:
 
+-  Allgemeine Fragen - Programm stürzt bei vielen falschantworten gelegentlich ab // stand v0.11
 -  Auswahl im Hauptmenu fehlerhaft  ( auswahl 5/6/7 )   // Ist in der Version 0.10 bereits behoben
 -  Berechnung der Endnode teilweise fehlerhaft
 -  gelegentlich fehlt bei den ersten Fragen die gegebene Anwort // Die Statistik am Ende stimmt aber!
