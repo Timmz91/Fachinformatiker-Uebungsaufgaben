@@ -6,6 +6,16 @@ Updates:
 - Absturz bei wiederholt falsche Antworten // wurde behoben
 - Die Darstellung der Fragen ist nun korrekt
 
+
+Bekannte Fehler dieser Version:
+
+-  Allgemeine Fragen - Programm stürzt bei vielen falschantworten gelegentlich ab // stand v0.11
+-  Ports Punkteliste ist fehlerhaft und die Darstellung der Punkte am ende des Quiz ist auch fehlerhaft
+-  Berechnung der Endnode teilweise fehlerhaft
+-  gelegentlich fehlt bei den ersten Fragen die gegebene Anwort // Die Statistik am Ende stimmt aber!
+-  Teilweise fehlen exceptions
+
+
 Kommt bald:
 - IPv6 Fragen zu DHCPv6 / DNSv6 / SLAAC
 
@@ -17,13 +27,4 @@ Kurze Info:
 - Unter IPv6 sind ca 30 Fragen bzgl EUI48 / 48   - Den Aufbau einer IPv6 und allgemeine Fragen dazu
 - TCP/UDP sind allgemeine Fragen zum Protocol und einige wichtige Port Fragen
 - Die Port-Fragen sind nicht bei "Alle Fragen" enthalten.... unter "Alle Fragen" sind aktuell die für uns momentan relevante Fragen ...
-
-
-Bekannte Fehler dieser Version:
-
--  Allgemeine Fragen - Programm stürzt bei vielen falschantworten gelegentlich ab // stand v0.11
--  Auswahl im Hauptmenu fehlerhaft  ( auswahl 5/6/7 )   // Ist in der Version 0.10 bereits behoben
--  Berechnung der Endnode teilweise fehlerhaft
--  gelegentlich fehlt bei den ersten Fragen die gegebene Anwort // Die Statistik am Ende stimmt aber!
--  Teilweise fehlen exceptions
 
