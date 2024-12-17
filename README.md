@@ -5,7 +5,9 @@ Updates:
 - Die Auswahlpunkte im Hauptmenu funktionieren nun korrekt
 - Absturz bei wiederholt falsche Antworten // wurde behoben
 - Die Darstellung der Fragen ist nun korrekt
-     
+
+Kommt bald:
+- IPv6 Fragen zu DHCPv6 / DNSv6 / SLAAC
 
 
 Kurze Info:
