@@ -11,7 +11,7 @@ Updates:
 
 Bekannte Fehler dieser Version:
 
--  Ports: Fehlerhafte Darstellung der Note am ende
+-  Ports: Fehlerhafte Darstellung der Note
 -  Berechnung der Endnode teilweise fehlerhaft
 -  Teilweise fehlen exceptions
 
