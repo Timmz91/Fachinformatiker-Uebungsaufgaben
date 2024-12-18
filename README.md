@@ -11,7 +11,6 @@ Updates:
 
 Bekannte Fehler dieser Version:
 
--  Allgemeine Fragen - Programm stürzt bei vielen falschantworten gelegentlich ab // stand v0.11
 -  Ports: Fehlerhafte Darstellung der Note am ende
 -  Berechnung der Endnode teilweise fehlerhaft
 -  Teilweise fehlen exceptions
