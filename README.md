@@ -1,8 +1,10 @@
 Updates:
 
-- Version 0.14
+- Version 0.15
 
 - Die Auswahlpunkte im Hauptmenu funktionieren nun korrekt
+- Unter 7 im Hauptmenu kommt man zu Github
+- Die Punkteübersicht bei den Ports ist nun korrekt 
 - Absturz bei wiederholt falsche Antworten // wurde behoben
 - Die Darstellung der Fragen ist nun korrekt
 
@@ -10,9 +12,8 @@ Updates:
 Bekannte Fehler dieser Version:
 
 -  Allgemeine Fragen - Programm stürzt bei vielen falschantworten gelegentlich ab // stand v0.11
--  Ports Punkteliste ist fehlerhaft und die Darstellung der Punkte am ende des Quiz ist auch fehlerhaft
+-  Ports: Fehlerhafte Darstellung der Note am ende
 -  Berechnung der Endnode teilweise fehlerhaft
--  gelegentlich fehlt bei den ersten Fragen die gegebene Anwort // Die Statistik am Ende stimmt aber!
 -  Teilweise fehlen exceptions
 
 
