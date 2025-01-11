@@ -1,11 +1,10 @@
 Updates:
 
-- Version 0.15
+- Version 016
 
 - Die Auswahlpunkte im Hauptmenu funktionieren nun korrekt
 - Unter 7 im Hauptmenu kommt man zu Github
-- Die Punkteübersicht bei den Ports ist nun korrekt 
-- Absturz bei wiederholt falsche Antworten // wurde behoben
+- Unter 8 im Hauptmenu gibt es WPO Fragen zum 2. Lehrjahr
 - Die Darstellung der Fragen ist nun korrekt
 
 
@@ -18,7 +17,6 @@ Bekannte Fehler dieser Version:
 
 Kommt bald:
 - IPv6 Fragen zu DHCPv6 / DNSv6 / SLAAC
-
 
 Kurze Info:
 - Wenn ihr weitere Fragen haben wollt oder euch Fehler auffallen, bitte mir bescheid geben!!!!!
