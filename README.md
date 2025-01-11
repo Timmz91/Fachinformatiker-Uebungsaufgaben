@@ -2,6 +2,7 @@ Updates:
 
 - Version 016
 
+- Fragen Shuffle // 25 Zufällige ( NUR TECHNISCHE(KEINWPO) ) Fragen
 - Die Auswahlpunkte im Hauptmenu funktionieren nun korrekt
 - Unter 7 im Hauptmenu kommt man zu Github
 - Unter 8 im Hauptmenu gibt es WPO Fragen zum 2. Lehrjahr
